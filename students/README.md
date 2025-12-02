@@ -4,3 +4,4 @@ Include:
 - A short bio
 - Your favorite topic
 - One interesting fact
+- Goals of this workshop
