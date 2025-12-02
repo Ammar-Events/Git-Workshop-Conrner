@@ -4,9 +4,9 @@
 | Meme | Description |
 |------|-------------|
 | ![man](memes-assets\man.png) | ~~**_THIS PHOTO IS GOING TO BE DELETED_**~~ |
-| ![bahjat](memes-assets\bahjat.png) | == |
-| ![mission-passed](memes-assets\mission-passed.png) | == |
-| ![relax](memes-assets\relax.png) | == |
-| ![thinking-cat](memes-assets\thinking-cat.png) | == |
-| ![flower](memes-assets\flower.png) | == |
-| ![atweh](memes-assets\atweh.png) | == |
+| ![bahjat](memes-assets\bahjat.png) | You while you are trying to work on this project. |
+| ![mission-passed](memes-assets\mission-passed.png) | when you work on multiple branches and merge them resolving the conflicts. |
+| ![relax](memes-assets\relax.png) | When you see your friend work with commits, branches, merging, and participate in open-source project and you have just started learning git. |
+| ![thinking-cat](memes-assets\thinking-cat.png) | When someone asks you about git command you have just learnt and you don't know how to answer. |
+| ![flower](memes-assets\flower.png) | Your youth's flower. |
+| ![atweh](memes-assets\atweh.png) | when you create your first commit. |
